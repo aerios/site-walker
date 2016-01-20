@@ -52,3 +52,7 @@ url1 -> url2 -> url3 -> url1 -> url2
 
  - Currently, if during crawling a URL is failed to be crawled, SiteWalker will break the execution and throw `reject`
  - No `stop()` method is available. So, if you keep supplying `nextUrl` on callback, SiteWalker will run forever (theoretically)
+
+## GitHub
+
+https://github.com/aerios/site-walker
