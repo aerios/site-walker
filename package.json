@@ -1,0 +1,21 @@
+{
+  "name": "site-walker",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --timeout=100000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "multi-request": "^1.2.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2"
+  }
+}
